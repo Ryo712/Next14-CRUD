@@ -1,0 +1,19 @@
+/* globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ここからカスタムスタイルを追加 
+.form-container {
+  @apply mx-auto max-w-lg p-4 border border-gray-300 bg-white rounded-md shadow-sm;
+}
+
+.form-field {
+  @apply w-full mb-4 px-3 py-2 border border-gray-300 rounded-md shadow-sm;
+}
+
+.submit-button {
+  @apply w-full px-3 py-2 bg-blue-600 text-white font-bold rounded-md shadow-sm hover:bg-blue-700;
+}
+*/
